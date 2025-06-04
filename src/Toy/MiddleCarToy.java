@@ -1,3 +1,4 @@
+package Toy;
 public class MiddleCarToy extends Car {  
   @Override
   public void play() {

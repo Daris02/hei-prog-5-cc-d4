@@ -1,3 +1,4 @@
+package Toy;
 public class MiddleDollToy extends Doll {
   @Override
   public void play() {

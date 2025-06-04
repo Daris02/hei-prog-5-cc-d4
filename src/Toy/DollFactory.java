@@ -1,3 +1,4 @@
+package Toy;
 public class DollFactory implements ToyFactory<Doll> {
   @Override
   public Toy<Doll> makeToyForKids() {

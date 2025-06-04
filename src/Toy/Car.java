@@ -1,3 +1,4 @@
+package Toy;
 public class Car implements Toy<Car> {
   @Override
   public Car makeToy() {
